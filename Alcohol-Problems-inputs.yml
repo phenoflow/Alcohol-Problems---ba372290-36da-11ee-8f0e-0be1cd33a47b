@@ -1,0 +1,159 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/alcohol-problems---primary.py
+inputModule3:
+  class: File
+  path: python/harmful-alcohol-problems---primary.py
+inputModule4:
+  class: File
+  path: python/alcohol-problems-misuse---primary.py
+inputModule5:
+  class: File
+  path: python/alcohol-problems-alcoholism---primary.py
+inputModule6:
+  class: File
+  path: python/alcohol-problems-induced---primary.py
+inputModule7:
+  class: File
+  path: python/alcohol-problems-monitoring---primary.py
+inputModule8:
+  class: File
+  path: python/alcohol-problems-abuse---primary.py
+inputModule9:
+  class: File
+  path: python/alcohol-problems-addiction---primary.py
+inputModule10:
+  class: File
+  path: python/alcohol-problems-detoxification---primary.py
+inputModule11:
+  class: File
+  path: python/alcohol-problems-community---primary.py
+inputModule12:
+  class: File
+  path: python/referral-alcohol-problems---primary.py
+inputModule13:
+  class: File
+  path: python/brief-alcohol-problems---primary.py
+inputModule14:
+  class: File
+  path: python/alcohol-problems-enhanced---primary.py
+inputModule15:
+  class: File
+  path: python/alcohol-problems-completed---primary.py
+inputModule16:
+  class: File
+  path: python/alcohol-problems-consumptn---primary.py
+inputModule17:
+  class: File
+  path: python/alcohol-problems-wernicke---primary.py
+inputModule18:
+  class: File
+  path: python/alcohol-problems-delirium---primary.py
+inputModule19:
+  class: File
+  path: python/alcohol-problems-tremens---primary.py
+inputModule20:
+  class: File
+  path: python/amnestic-alcohol-problems---primary.py
+inputModule21:
+  class: File
+  path: python/alcohol-problems-korsakov---primary.py
+inputModule22:
+  class: File
+  path: python/alcohol-problems-hallucinosis---primary.py
+inputModule23:
+  class: File
+  path: python/alcohol-problems-dementium---primary.py
+inputModule24:
+  class: File
+  path: python/alcohol-problems-brain---primary.py
+inputModule25:
+  class: File
+  path: python/alcohol-problems-paranoia---primary.py
+inputModule26:
+  class: File
+  path: python/other-alcohol-problems---primary.py
+inputModule27:
+  class: File
+  path: python/alcohol-problems-withdrawal---primary.py
+inputModule28:
+  class: File
+  path: python/alcohol-problems-dependence---primary.py
+inputModule29:
+  class: File
+  path: python/alcohol-problems-intoxication---primary.py
+inputModule30:
+  class: File
+  path: python/alcohol-problems-unspecified---primary.py
+inputModule31:
+  class: File
+  path: python/continuous-alcohol-problems---primary.py
+inputModule32:
+  class: File
+  path: python/episodic-alcohol-problems---primary.py
+inputModule33:
+  class: File
+  path: python/alcohol-problems-remission---primary.py
+inputModule34:
+  class: File
+  path: python/chronic-alcohol-problems---primary.py
+inputModule35:
+  class: File
+  path: python/alcohol-problems-dipsomania---primary.py
+inputModule36:
+  class: File
+  path: python/mental-alcohol-problems---primary.py
+inputModule37:
+  class: File
+  path: python/alcohol-problems-state---primary.py
+inputModule38:
+  class: File
+  path: python/encephalopathy-alcohol-problems---primary.py
+inputModule39:
+  class: File
+  path: python/alcohol-problems-cirrhosis---primary.py
+inputModule40:
+  class: File
+  path: python/alcohol-problems-liver---primary.py
+inputModule41:
+  class: File
+  path: python/alcohol-problems-hepatitis---primary.py
+inputModule42:
+  class: File
+  path: python/alcohol-problems-pancreatitis---primary.py
+inputModule43:
+  class: File
+  path: python/alcohol-problems-reduction---primary.py
+inputModule44:
+  class: File
+  path: python/alcohol-problems-counselling---primary.py
+inputModule45:
+  class: File
+  path: python/alcohol-problems-rehabilitation---primary.py
+inputModule46:
+  class: File
+  path: python/alcohol---primary.py
+inputModule47:
+  class: File
+  path: python/alcohol-problems-history---primary.py
+inputModule48:
+  class: File
+  path: python/alcohol-problems---secondary.py
+inputModule49:
+  class: File
+  path: python/behavioural-alcohol-problems---secondary.py
+inputModule50:
+  class: File
+  path: python/alcohol-problems-state---secondary.py
+inputModule51:
+  class: File
+  path: python/psychotic-alcohol-problems---secondary.py
+inputModule52:
+  class: File
+  path: python/alcohol-problems-pancreatitis---secondary.py
+inputModule53:
+  class: File
+  path: python/output-cases.py
